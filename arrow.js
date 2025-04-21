@@ -136,4 +136,4 @@ function confuseReader(){
 }
 
 confuseReader();
-console.log("Outside the function");
+console.log("Outside the function");    
